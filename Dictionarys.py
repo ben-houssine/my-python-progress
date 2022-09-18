@@ -7,7 +7,7 @@ week_plan = {'Monday': ['working: from 9am - 1pm', 'coding at home', 'eating din
              'Thursday': 'working from 10am - 11pm',
              'Friday': 'going to the gym',
              'Saturday': 'studying math and coding',
-             'Sunday': {'morning': 'working from 10am - 11pm', 'afternoon': 'eating dinner with friends'}   # a dict inside a dict is possible.
+             'Sunday': {'morning': 'working from 10am - 11pm', 'afternoon': 'eating dinner with friends'}   # a dict. inside a dict. is possible!
               }
 
 print(week_plan)
