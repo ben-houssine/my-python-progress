@@ -6,7 +6,6 @@ names_1 = ['name1','name2','name3']
 #one way to display items of an array, one by one together:
 displaying_option_1 = list(zip(numbers_1, names_1))
 print(displaying_option_1)
-
 print("")
 
 #another way to display it:
