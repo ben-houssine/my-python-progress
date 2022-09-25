@@ -1,6 +1,3 @@
-
-
-
 #simple function
 x = int(input("please enter a number:  "))
 
