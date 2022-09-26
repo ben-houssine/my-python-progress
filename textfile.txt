@@ -1,0 +1,3 @@
+This is my first sentence using this method to write something in a .txt file with python
+*** Current Time by opening this .txt file: ***
+17:28:15
